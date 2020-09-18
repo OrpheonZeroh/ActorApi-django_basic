@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.7-slim
 
 # The enviroment variable ensures that the python output is set straight
 # to the terminal with out buffering it first
